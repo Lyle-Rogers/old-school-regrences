@@ -1,0 +1,202 @@
+.main-section > .main-side-bar {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    background-color: #1e1f26;
+    height: 100%;
+    width: 210px;
+}
+
+.side-bar-image img {
+    width: 210px;
+    height: 80px;
+    margin-bottom: -40px;
+    margin-top: -20px;
+    filter: invert(100%);
+}
+
+.main-side-bar h5 {
+    color: #b7bbc8;
+    background-color: #1e1f26;
+    padding-left: 17px;
+    margin-top: 40px;
+    font-family: 'Comic Neue', cursive;
+}
+
+.button-start-coding button {
+    width: 160px;
+    height: 40px;
+    background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 21px;
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+    margin-top: -15px;
+    border: none;
+}
+
+.explore-thingy h2 {
+    font-size: 15px;
+    color: #ffdd40;
+    padding-left: 17px;
+    padding-top: 10px;
+    margin-bottom: 1px;
+    font-family: 'Mukta', sans-serif;
+}
+
+.picks-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.picks-thingy:hover {
+    
+}
+
+.popular-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.popular-thingy {
+    padding-top: 3px;
+}
+
+.topics-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.topics-thingy {
+    padding-top: 3px;
+}
+
+.grow-thingy h2 {
+    font-size: 15px;
+    color: #169c04;
+    padding-left: 17px;
+    padding-top: 10px;
+    margin-bottom: 1px;
+    font-family: 'Mukta', sans-serif;
+}
+
+.jobs-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;  
+}
+
+.codepen-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.codepen-thingy {
+    padding-top: 3px;
+}
+
+.challenges-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.challenges-thingy {
+    padding-top: 3px;
+}
+
+.companies-thingy h2 {
+    font-size: 15px;
+    color: #076ec2;
+    padding-left: 17px;
+    padding-top: 10px;
+    margin-bottom: 1px;
+    font-family: 'Mukta', sans-serif;
+}
+
+.hire-talent-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.create-a-team-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.create-a-team-thingy {
+    padding-top: 3px;
+}
+
+.advertise-thingy a {
+    color: #FFF;
+    padding: 17px;
+    font-family: 'Muli', sans-serif;
+    text-decoration: none;
+}
+
+.advertise-thingy {
+    padding-top: 3px;
+}
+
+.newsletter-thingy a {
+    color: rgb(143, 140, 134);
+    padding: 17px;
+    text-decoration: none;
+}
+
+.newsletter-thingy {
+    margin-top: 30px;
+}
+
+.blog-thingy a {
+    color: rgb(143, 140, 134);
+    padding: 17px;
+    text-decoration: none; 
+}
+
+.docs-thingy a {
+    color: rgb(143, 140, 134);
+    padding: 17px;
+    text-decoration: none;
+}
+
+.cool-image img {
+    width: 140px;
+    height: 110px;
+    padding-left: 35px;
+    padding-top: 40px;
+}
+
+.start-your h2 {
+    color: rgb(143, 140, 134);
+    font-size: 16px;
+    padding-left: 30px;
+    margin-bottom: -12px;
+}
+
+.devops h2 {
+    color: rgb(143, 140, 134);
+    font-size: 15px;
+    padding-left: 30px; 
+}

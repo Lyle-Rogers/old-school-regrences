@@ -1,0 +1,174 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    padding-left: 2.7em;
+    margin-bottom: 3em;
+    /* color: rgb(35, 124, 27); */
+    color: #11A9EC;
+}
+
+.rosa {
+    margin-bottom: 3em;
+}
+
+.rosa h2 {
+    color: #8B6F48;
+    padding-left: 5.9em;
+}
+
+.kids {
+    margin-bottom: 3em;
+}
+
+.kids h2 {
+    color: #8B6F48;
+    padding-left: 5.5em;
+}
+
+.heart {
+    margin-bottom: 3em;
+}
+
+.heart h2 {
+    color: #8B6F48;
+    padding-left: 6.9em;
+}
+ 
+.razor iframe {
+    margin-bottom: 3em;
+    margin-left: 7.1em;
+}
+
+.razor h2 {
+    color: #8B6F48;
+    padding-left: 6.8em;
+}
+
+.adela {
+    margin-bottom: 3em;
+}
+
+.adela h2 {
+    color: #8B6F48;
+    padding-left: 7em;
+}
+
+.ramona iframe {
+    width: 31.2em;
+    margin-bottom: 1em;
+    height: 40em;
+}
+
+.ramona h2 {
+    color: #8B6F48;
+    padding-left: 4.8em;
+}
+
+/* Footer and Header */
+.header-wrapper {
+    /* background-color: #F4FFFD; */
+    height: 350px;
+    padding-bottom: 30px;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 190px;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.nav-links a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 7px;
+    margin-bottom: 10px;
+    font-weight: 800;
+    border: 0.7px solid lightgray;
+    transition: 0.5s all;
+}
+
+.nav-links a:hover {
+
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.5);
+}
+
+/* .hlink a{
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.5);
+
+} */
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    height: 150px;
+}
+
+/* footer */
+.footer-wrapper {
+    height: 350px;
+    padding-bottom: 30px;
+}
+
+
+.fnav-links {
+    display: flex;
+    justify-content: space-between;
+    height: 190px;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.fnav-links a {
+    font-size: 10px;
+    text-decoration: none;
+    color: black;
+    padding: 7px;
+    margin-bottom: 10px;
+    font-weight: 800;
+    border: 0.7px solid lightgray;
+    transition: 0.5s all;
+}
+
+.fnav-links a:hover {
+
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    height: 150px;
+}
+
+.social-links-wrapper {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.social-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-links i {
+    color: black;
+    font-size: 30px;
+}
