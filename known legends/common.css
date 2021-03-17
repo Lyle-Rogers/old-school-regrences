@@ -1,0 +1,16 @@
+.nav-total-wrapper {
+    background-color: #11122b;
+    padding: 100px;
+    text-decoration: none;
+}
+
+.nav-total-wrapper > .nav-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-total-wrapper > .nav-wrapper > .nav-link1, .nav-link2, .nav-link3 a {
+    font-size: 50px;
+}
+
